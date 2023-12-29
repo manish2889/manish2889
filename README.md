@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manish2889
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on projects based on Nodejs
-- 📫 Reach me on telegram @callmemanish
+- 👀 I’m interested in blockchain technology
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on projects based on Solidity
+- 📫 Reach me on telegram https://t.me/callmemanish
 
 <!---
 manish2889/manish2889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
