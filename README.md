@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manish2889
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on projects based on Solidity
+- 💞️ I’m looking to collaborate on projects based on Solidity and web3
 - 📫 Reach me on telegram https://t.me/callmemanish
 
 <!---
