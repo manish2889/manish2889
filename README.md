@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish2889&label=Profile%20views&color=0e75b6&style=flat" alt="manish2889" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manishgowda2889" target="blank"><img src="https://img.shields.io/twitter/follow/manishgowda2889?logo=twitter&style=for-the-badge" alt="manishgowda2889" /></a> </p>
+<p align="left"> <a href="https://x.com/0xmanishr" target="blank"><img src="https://img.shields.io/twitter/follow/manishgowda2889?logo=twitter&style=for-the-badge" alt="manishgowda2889" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 Projects**
 
