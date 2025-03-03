@@ -1,63 +1,95 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=manish2889&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/manish2889)
+
+Hi, my name is
+
 # Manish R
-### Blockchain Developer & Web3 Enthusiast
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xmanishr?logo=twitter&style=for-the-badge)](https://x.com/0xmanishr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manishgowda2889)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://manish.on.fleek.co/)
+## I build things for Web3
 
-## About Me
+I'm a blockchain developer and computer science student at PES College of Engineering. Currently, I'm focused on learning and building decentralized applications, exploring Solana development, and working on AI projects with Eliza.
 
-I'm a passionate Blockchain Developer focused on building innovative solutions in the Web3 space. With a strong foundation in blockchain technology and smart contract development, I specialize in creating decentralized applications (DApps) on the Ethereum network.
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/manish2889)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manishgowda)
+[![Email](https://img.shields.io/badge/Schedule_Meeting-Calendar-red?style=for-the-badge&logo=google-calendar)](https://calendly.com/manishr2889/30min)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/0xmanishr)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram)](https://telegram.dog/Oxmanishr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://manish.on.fleek.co/)
+[![Links](https://img.shields.io/badge/All_Links-Browse-purple?style=for-the-badge&logo=linktree)](https://linktr.ee/manishrgowda)
 
-### 🔭 Current Focus
-- Developing Web3 Projects
-- Building Ethereum-based DApps
-- Contributing to blockchain-based solutions
+## 01. About Me
 
-### 💼 Expertise
-- Smart Contract Development with Solidity
-- Frontend Development with React.js
-- Web3 Integration
-- DApp Architecture & Development
+My journey into the world of blockchain and Web3 began with a fascination for decentralized systems and their potential to revolutionize the digital landscape. As a computer science student, I've always been drawn to cutting-edge technologies that challenge traditional paradigms.
 
-### 🌱 Looking For
-- Collaboration on Web3 and blockchain projects
-- Opportunities to contribute to Ethereum DApps
-- Connecting with fellow blockchain enthusiasts
+Beyond coding, I'm passionate about contributing to the Web3 ecosystem and building solutions that make blockchain technology more accessible to everyone. I believe in the power of decentralized systems to create a more transparent and equitable digital future.
 
-## 🛠️ Tech Stack
+When I'm not coding, you'll find me exploring new blockchain protocols, participating in hackathons, or sharing my knowledge with the developer community through technical articles and open-source contributions.
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+### ⚡ Currently Exploring
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🔷 Solana Development
+Building decentralized applications on the fastest blockchain, exploring Solana's unique architecture and ecosystem.
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+</td>
+<td>
 
-## 📈 GitHub Stats
+#### 🤖 AI Development
+Creating intelligent solutions with Eliza, focusing on AI integration in blockchain applications.
+
+</td>
+</tr>
+</table>
+
+## 02. Skills & Technologies
+
+### Web Development
+- React (90%)
+- Next.js (85%)
+- TypeScript (85%)
+- Node.js (85%)
+- Tailwind CSS (90%)
+- PostgreSQL (80%)
+- MongoDB (80%)
+- TurboRepo (75%)
+
+### Web3 & Blockchain
+- Solidity (85%)
+- Hardhat (80%)
+- Foundry (75%)
+- Ethers.js (85%)
+- Solana (30%)
+
+### Tools & DevOps
+- Git (90%)
+- Docker (85%)
+- MonoRepo (80%)
+- CI/CD (75%)
+- Linux (80%)
+
+_Currently exploring: Solana Development and AI Development (Building on Eliza)_
+
+## 03. GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish2889&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish2889&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 📫 Get in Touch
-- Email: manishr2889@gmail.com
-- Twitter: [@0xmanishr](https://x.com/0xmanishr)
-- LinkedIn: [manishgowda2889](https://linkedin.com/in/manishgowda2889)
-- Portfolio: [manish.on.fleek.co](https://manish.on.fleek.co/)
+## 04. Connect With Me
+
+### 🤝 Let's Build Together
+- 📅 Schedule a meeting: [Calendly](https://calendly.com/manishr2889/30min)
+- 🌐 Portfolio: [manish.on.fleek.co](https://manish.on.fleek.co/)
+- 📧 Email: manishr2889@gmail.com
+- 🐦 Twitter: [@0xmanishr](https://x.com/0xmanishr)
+- 💼 LinkedIn: [manishgowda](https://linkedin.com/in/manishgowda)
+- 📱 Telegram: [@Oxmanishr](https://telegram.dog/Oxmanishr)
+- 🔗 All Links: [Linktree](https://linktr.ee/manishrgowda)
+
+---
+<p align="center">
+  <i>Let's connect and build the decentralized future together! 🚀</i>
+</p>
